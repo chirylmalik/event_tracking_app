@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SubmissionAwalDicoding"
+rootProject.name = "EventTracking"
 include(":app")
  
