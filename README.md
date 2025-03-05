@@ -9,6 +9,6 @@ Android app for tracking events.
 - 🌙 **Dark/Light Mode** – Choose between dark mode and light mode based on your preference.
 
 ## 📥 Installation
-1. Download the latest version of `event_tracking.apk`.
+1. Download the latest version of [`event_tracking.apk`](./event_tracking.apk).
 2. Install the APK on your Android device.
 3. Open the app and start tracking your favorite events!
